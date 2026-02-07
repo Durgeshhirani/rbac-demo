@@ -83,11 +83,13 @@ http://127.0.0.1:8000
 
 | Role        | Email                                     | Password |
 | ----------- | ----------------------------------------- | -------- |
-| Super Admin | [super@admin.com](mailto:super@admin.com) | password |
-| Org Admin   | [admin@org1.com](mailto:admin@org1.com)   | password |
-| Org HR      | [hr@org1.com](mailto:hr@org1.com)         | password |
-| Org Sales   | [sales@org1.com](mailto:sales@org1.com)   | password |
-
+| Super Admin | super@admin.com | password |
+| Org 1 Admin   | admin1@org.com  | password |
+| Org 1 HR      | hr1@org.com         | password |
+| Org 1 Sales   | sales1@org.com  | password |
+| Org 2 Admin   | admin2@org.com   | password |
+| Org 2 HR      | hr2@org.com      | password |
+| Org 2 Sales   | sales2@org.com  | password |
 ---
 
 ## 🧑‍💼 Roles & Permissions Overview
