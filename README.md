@@ -21,7 +21,7 @@ The system supports multiple user roles with strict access boundaries across org
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/rbac-demo.git
+git clone https://github.com/durgeshhirani/rbac-demo.git
 cd rbac-demo
 ```
 
